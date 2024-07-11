@@ -1,6 +1,5 @@
-# This repo has been archived because ComfyUI natively has similar functionality now
+# Run basic torch operations within a ComfyUI worflow
 
-# ComfyUI_LatentToRGB
-ComfyUI custom node to convert latent to RGB
+Write a short function to modify in image within a comfyui workflow. 
 
-Transformation matrix taken from here: https://discuss.huggingface.co/t/decoding-latents-to-rgb-without-upscaling/23204/2
+![image](https://github.com/Nolasaurus/ComfyUI_RunCustomPython/assets/100235194/7d57cd07-a05f-492f-9d4f-3e4f9e8bdee0)
